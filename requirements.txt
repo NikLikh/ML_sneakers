@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+lightgbm
+catboost
+phik
+pyarrow
+jupyter
+ipykernel
+notebook
+torch
+tqdm
